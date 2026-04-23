@@ -6,6 +6,7 @@ I'm a Computer Science (AI & ML) student at the **College of Engineering, Chenga
 
 [![Portfolio](https://img.shields.io/badge/sarinms.dev-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sarinms.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarin-ms)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sarin--ms-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sarin-ms/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@sarinnms)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Sarin_0007)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sarinms7@hotmail.com)
@@ -65,6 +66,10 @@ I'm a Computer Science (AI & ML) student at the **College of Engineering, Chenga
 
 <img src="https://komarev.com/ghpvc/?username=sarin-ms&label=Profile%20views&color=0e75b6&style=flat" alt="sarin-ms" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarin-ms&" alt="sarin-ms" /></p>
+
+### 🧩 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sarin-ms?theme=light&font=Karma)](https://leetcode.com/u/sarin-ms/)
 
 ### 🏆 Trophies
 
